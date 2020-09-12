@@ -12,6 +12,9 @@ Centos use only defensive tooling. RX8
 
 
 ## Also install the listed applications for notifications
+
 `yum -y install iptables`
+
 `yum -y install sendmail`
+
 `yum install -y mailx`
