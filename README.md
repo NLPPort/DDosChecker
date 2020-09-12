@@ -18,3 +18,5 @@ Centos use only defensive tooling. RX8
 `yum -y install sendmail`
 
 `yum install -y mailx`
+
+
