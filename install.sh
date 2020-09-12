@@ -6,7 +6,7 @@ else
 	mkdir /usr/local/ddos
 fi
 clear
-echo; echo 'Installing DOS-Deflate 1.1'; echo
+echo; echo 'Installing DOS-Defender 1.1'; echo
 
 
 FILE1="https://raw.githubusercontent.com/NLPPort/DDosChecker/master/ddos/ddos.sh"
